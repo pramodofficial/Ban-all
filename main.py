@@ -78,7 +78,7 @@ async def start(event):
         await sree.send_file(
             event.chat.id,
             file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
-            caption=hlptxt.format(event.sender.first_name, event.sender.id)
+            caption=hlptxt.format(event.sender.first_name, event.sender.id),
             link_preview=False,
             buttons=buttns
         )
@@ -86,7 +86,7 @@ async def start(event):
         await event.reply(
             "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own Repository ==> [HERE✨](https://github.com/ItsmeHyper13/BanallBot)",
             link_preview=False,
-            )       
+        )       
 
 @sree.on(events.NewMessage(pattern="/ping"))
 async def ping(event):
