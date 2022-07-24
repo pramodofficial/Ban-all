@@ -1,2 +1,0 @@
-# BanallBot
-TelegramBot 👻
