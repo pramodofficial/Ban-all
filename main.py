@@ -14,7 +14,7 @@ from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from asyncio import sleep
 from telethon import __version__ as tel
-from str import dad as gg, dady as g, startxt2, startxt
+from str import dad as gg, dady as g, startxt2, startxt, hlptxt
 from telethon.tl.types import ChatBannedRights, ChannelParticipantsAdmins, ChatAdminRights
 from telethon.tl.functions.channels import EditBannedRequest
 from datetime import datetime
@@ -46,7 +46,7 @@ async def start(event):
             file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
             caption=startxt.format(
                 event.sender.first_name,
-               event.sender.id,
+                event.sender.id,
                 py,
                 tel,
                 Owner,
@@ -60,7 +60,7 @@ async def start(event):
             file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
             caption=startxt2.format(
                 event.sender.first_name,
-               event.sender.id,
+                event.sender.id,
                 py,
                 tel,
                 Owner,
@@ -69,6 +69,24 @@ async def start(event):
             buttons=buttns
         )
 
+
+@sree.on(events.NewMessage(pattern="/help"))
+async def start(event):
+    buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
+    py = platform.python_version()
+    if event.sender.id in OP:
+        await sree.send_file(
+            event.chat.id,
+            file="https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
+            caption=hlptxt.format(event.sender.first_name, event.sender.id)
+            link_preview=False,
+            buttons=buttns
+        )
+    if event.sender.id not in OP:
+        await event.reply(
+            "Huh Nigga!\nThis is not for you lol 😑\n\nMake your own Repository ==> [HERE✨](https://github.com/ItsmeHyper13/BanallBot)",
+            link_preview=False,
+            )       
 
 @sree.on(events.NewMessage(pattern="/ping"))
 async def ping(event):
