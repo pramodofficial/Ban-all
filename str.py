@@ -34,4 +34,15 @@ __This Is BanAll Bot\nOnly My Owner Can Access This Bot👻!__
 ❍ Code Owner » [GitHub](https://github.com/{})
 """
 
+hlptxt = """ Meow [{}](tg://user?id={}),
 
+__Here is the help menu__:
+
+❅ `/start` - To start the bot.
+❅ `/ping` - Check Bot is alive.
+❅ `/banall` - Try for bilek megic in group.
+❅ `/leave` - To leave group.
+❅ `/restart` - To restart the bot.
+
+❍ Facing any kind of issue then just join @SilentVerse and ask there!!
+"""
