@@ -36,7 +36,7 @@ sree = TelegramClient(
 
 Owner = "ItsmeHyper13"
 repo = "https://github.com/ItsmeHyper13/BanallBot"
-@sree.on(events.NewMessage(pattern="/start"))
+@sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
@@ -70,7 +70,7 @@ async def start(event):
         )
 
 
-@sree.on(events.NewMessage(pattern="/help"))
+@sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
     buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
     py = platform.python_version()
@@ -88,7 +88,7 @@ async def start(event):
             link_preview=False,
         )       
 
-@sree.on(events.NewMessage(pattern="/ping"))
+@sree.on(events.NewMessage(pattern="^/ping"))
 async def ping(event):
     if event.sender.id in OP:
         start = datetime.now()
@@ -99,7 +99,7 @@ async def ping(event):
         await txxt.edit(f"γєαн ι αм αℓιϐє 🔥!!\n\nριиg ροиg 🏓\n   ➥ `{ms} ms`")
 
 
-@sree.on(events.NewMessage(pattern="/banall"))
+@sree.on(events.NewMessage(pattern="^/banall"))
 async def bun(event):
   if event.sender.id in OP:
    if not event.is_group:
@@ -128,7 +128,7 @@ async def bun(event):
            await sleep(0.3)
 
 
-@sree.on(events.NewMessage(pattern="/restart"))
+@sree.on(events.NewMessage(pattern="^/restart"))
 async def restart(jnl):
     if jnl.sender.id in OP:
         tct = "__Wait Restarting...__"
@@ -141,7 +141,7 @@ async def restart(jnl):
         quit()
 
 
-@sree.on(events.NewMessage(pattern="/leave"))
+@sree.on(events.NewMessage(pattern="^/leave"))
 async def leave(z):
     if z.sender.id in OP:
         mkc = ("".join(z.text.split(maxsplit=1)[1:])).split(" ", 1)
