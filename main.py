@@ -14,8 +14,7 @@ from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from asyncio import sleep
 from str import dad as gg, dady as g
-from telethon.tl.types import ChatBanned
-Rights, ChannelParticipantsAdmins, ChatAdminRights
+from telethon.tl.types import ChatBannedRights, ChannelParticipantsAdmins, ChatAdminRights
 from telethon.tl.functions.channels import EditBannedRequest
 from datetime import datetime
 #Logging...
