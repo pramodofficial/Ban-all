@@ -1,6 +1,6 @@
 <h3 align="center"><strong><code>BanallBot 🚀</code></strong></h3>
 
-<img src="https://telegra.ph/file/40d85b1acb12e9396a6bf.jpg" alt="Unable To serve You">
+<img src="https://telegra.ph/file/c091a3b1c69d008d8bf10.jpg" alt="Unable To serve You">
 <blockquote>
 <strong><i>❍&nbsp;Telegram banall bot! Use it on your own risk we are not responsible for any kind of problems 💫💝!</i></strong><br><br>
 </blockquote>
@@ -14,7 +14,7 @@
 ❍ <code>BOT_TOKEN</code><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Botfather"><code>@BOTFATHER</code></a><br>
 ❍ <code>OWNER_ID</code><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/DEVU_ROBOT"><code>@DEVU_ROBOT</code></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥ <strong>Get it from</strong> <a href="https://t.me/Ban_Ro_bot"><code>@Ban_Ro_bot</code></a>
 </details><details>
 <summary><h4><strong><i>Commands⚙️🛠️</i></strong></h4></summary>
 &nbsp;◍&nbsp;<code>/ping</code>&nbsp;:&nbsp;<strong>To Check Bot Ping Status.</strong><br>
@@ -33,17 +33,17 @@
 <pre>
 <p align="center">
 <img src="https://img.shields.io/github/license/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/forks/ItsmeHyper13/BanallBot.svg"> <img src="https://img.shields.io/github/stars/ItsmeHyper13/BanallBot.svg">
-<a href="https://github.com/ItsmeHyper13/BanallBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsmeHyper13&repo=BanallBot&theme=blue-green"></a>
-<a href="https://github.com/ItsmeHyper13/BanallBot/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Dangerop/Ban-all"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dangerop&repo=Ban-all&theme=blue-green"></a>
+<a href="https://github.com/Dangerop/Ban-all/fork"><img src="https://img.shields.io/badge/Fork%20Banall%20Bot-black?style=for-the-badge&logo=github"></a>
 </P>
 </pre>
 </p>
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>{🇮🇳} 𝙷𝚈𝙿𝙴𝚁 𝙺𝙸𝙽𝙶</code><br>
+<strong>All credit Goes To</strong>&nbsp;<code>{🇮🇳} Danger xD 𝙺𝙸𝙽𝙶</code><br>
 <code>Telegram:- <a href="https://t.me/ShiningOff">@ShiningOff</a></code><br>
-<code>Github:- <a href="https://github.com/ItsmeHyper13">ItsmeHyper13</a></code><br>
+<code>Github:- <a href="https://github.com/Dangerop/Ban-all">Dangerop</a></code><br>
 </details>
 </p>
 
@@ -52,8 +52,8 @@
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
-<a href = "https://github.com/ItsmeHyper13/BanallBot/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=ItsmeHyper13/BanallBot" height="30px"/>
+<a href = "https://github.com/Dangerop/Ban-all/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo=Dangerop/Ban-all" height="30px"/>
 </a><br><br>
 <strong>Made with <a href="https://python.org"><code>Python🐍</code></a></strong>
 </p>
