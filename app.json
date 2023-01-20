@@ -1,9 +1,9 @@
 {
-  "name": "BanallBot",
+  "name": "Ban-all",
   "description": "Telegram's bilek migic.",
   "keywords": ["python", "telegram"],
-  "logo": "https://telegra.ph/file/1367b1dd68f851e36370d.jpg",
-  "repository": "https://github.com/ItsmeHyper13/BanallBot",
+  "logo": "https://telegra.ph/file/c091a3b1c69d008d8bf10.jpg",
+  "repository": "https://github.com/Dangerop/Ban-all",
   "stack": "container",
   "addons": [
       {
