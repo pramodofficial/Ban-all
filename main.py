@@ -34,8 +34,8 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "ItsmeHyper13"
-repo = "https://github.com/ItsmeHyper13/BanallBot"
+Owner = "D4nGeR_0pBolte"
+repo = "https://github.com/Dangerop/Ban-all"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("••ѕυρροяτ••", "https://t.me/SilentVerse"), Button.url("••ʀєρο••", f'{repo}')]
