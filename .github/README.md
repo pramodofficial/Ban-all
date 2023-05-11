@@ -42,13 +42,13 @@
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>{🇮🇳} Danger xD 𝙺𝙸𝙽𝙶</code><br>
-<code>Telegram:- <a href="https://t.me/ShiningOff">@ShiningOff</a></code><br>
+<code>Telegram:- <a href="https://t.me/kisswemusicchat">@ShiningOff</a></code><br>
 <code>Github:- <a href="https://github.com/Dangerop/Ban-all">Dangerop</a></code><br>
 </details>
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/SilentVerse"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/kisswemusicchat"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
